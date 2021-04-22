@@ -1,6 +1,6 @@
 # freeCodeCamp Front End Development Libraries Projects - Project 2 - Build a Random Quote Machine
 
-See the result here: http://LaurentLabine.github.io/fcc-random-quote-generator/
+See the result here: http://LaurentLabine.github.io/fcc-frontend-random-quote-generator/
 
 I built this project as part of freeCodeCamp's curriculum to learn and practice Responsive Web Design.
 
