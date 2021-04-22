@@ -2,7 +2,7 @@
     "name": "fcc-random-quote-generator",
     "version": "0.1.0",
     "private": true,
-    "homepage": "http://LaurentLabine.github.io/fcc-random-quote-generator/",
+    "homepage": "http://LaurentLabine.github.io/fcc-frontend-random-quote-generator/",
     "dependencies": {
         "@fortawesome/fontawesome-svg-core": "^1.2.35",
         "@fortawesome/free-brands-svg-icons": "^5.15.3",
