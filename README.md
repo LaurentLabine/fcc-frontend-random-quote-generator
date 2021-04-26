@@ -11,3 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 It is built using the React Library coupled with Redux for state Management and Styled-Components for the styling
 
 It answers the technical requirements as stated in the challenge located here: https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine with the tests that can be run from the page itself.
+
+Additional features include:
+
+* Random color theme updated every new quote.
