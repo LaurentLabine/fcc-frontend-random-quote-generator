@@ -2,6 +2,8 @@
 
 See the result here: http://LaurentLabine.github.io/fcc-frontend-random-quote-generator/
 
+Thumbnail available here : https://user-images.githubusercontent.com/20836468/118485467-c65cca00-b718-11eb-957d-81e8b483f238.png
+
 I built this project as part of freeCodeCamp's curriculum to learn and practice Responsive Web Design.
 
 ## Technologies
